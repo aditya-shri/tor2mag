@@ -1,1 +1,1 @@
-[Website](https://aditya-shri.github.io/tor2mag/)
+[Visit Website](https://t2m.adityashri.tk)
